@@ -17,7 +17,8 @@ O projeto faz parte dos meus estudos práticos de Engenharia de IA, com foco no 
 - Operações aritméticas básicas: adição, subtração, multiplicação e divisão.
 - Uso de parênteses em expressões matemáticas.
 - Interface gráfica com tema Matrix.
-- Tabelas de multiplicação de 2 a 9 como funcionalidade secundária.
+- Tabelas de multiplicação de 2 a 9 como funcionalidade secundária. (Ainda está em anaise)
+- Uso de `○` ao envés de `=`
 
 ## Estado atual
 
